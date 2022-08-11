@@ -1,10 +1,7 @@
 # clocks-crocodiles
 
-Данные находятся в архиве сlocks_crocodiles.rar
+Objective: build an image classifier to distiguish between clocks and crocodiles using Pytorch. The classifier is build on pretrained ResNet-18.
 
-Все этапы - распаковка, подготовка данных, обучение и оценка качества - в clock-vs-crocodile-pytorch.ipynb
+The data is stored in сlocks_crocodiles.rar.
 
-Требуемые библиотеки - в requirements.txt
-
-PyTorch 0.4.0(!)
-
+PyTorch 0.4.0.
